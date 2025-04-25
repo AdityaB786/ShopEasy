@@ -49,7 +49,7 @@ Prim's algorithm is used between areas in a city to provide discounts to users. 
 <img width="609" alt="Screenshot 2025-04-25 at 10 26 54 PM" src="https://github.com/user-attachments/assets/879906e7-7717-41bc-814a-8dfa9f41706a" />
 <img width="612" alt="Screenshot 2025-04-25 at 10 27 49 PM" src="https://github.com/user-attachments/assets/b59e0a65-afcc-4732-b151-121b1835bfd3" />
 <img width="601" alt="Screenshot 2025-04-25 at 10 28 21 PM" src="https://github.com/user-attachments/assets/3cff6ce5-2588-4795-9fce-f76dc3c9ec1f" />
-<img width="583" alt="Screenshot 2025-04-25 at 10 28 57 PM" src="https://github.com/user-attachments/assets/9274deae-81de-450e-996e-a3ac0fb3c617" />
+<img width="487" alt="Screenshot 2025-04-25 at 10 30 42 PM" src="https://github.com/user-attachments/assets/443282f6-0435-4147-8a24-27a5848d82cd" />
 
 
 
